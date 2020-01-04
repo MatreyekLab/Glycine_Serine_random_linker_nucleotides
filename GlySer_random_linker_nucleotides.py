@@ -1,6 +1,6 @@
 from random import randint
 
-codons = ["GGU","GGC","GGA","GGG","TCT","TCC","TCA","TCG","AGT","AGC"]
+codons = ["GGT","GGC","GGA","GGG","TCT","TCC","TCA","TCG","AGT","AGC"]
 
 length = input("What amino acid length flexible linker would you like a nucleotide sequence for?")
 
